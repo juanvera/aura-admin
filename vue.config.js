@@ -4,7 +4,7 @@ module.exports = {
   ],
   productionSourceMap: false,
   pwa: {
-    name: 'Aura Admin',
+    name: 'GDG Gran Canaria Admin Site',
     workboxPluginMode: 'InjectManifest',
     themeColor: '#4A90E2',
     msTileColor: '#4A90E2',
